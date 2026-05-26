@@ -340,7 +340,7 @@ This project is part of the **DecodeLabs Industrial Training Kit (Batch 2026)** 
 
 ## Author
 
-Kireetini Katakam | DecodeLabs Industrial Training Kit  
+Kireetini Katakam| DecodeLabs Industrial Training Kit  
 **Batch:** 2026
 
 *This project was completed as part of the DecodeLabs training program.*
@@ -349,7 +349,15 @@ Kireetini Katakam | DecodeLabs Industrial Training Kit
 
 ## License
 
-This code is provided for educational purposes. Feel free to modify and extend it as needed.
+This project is licensed under the **MIT License**. See the `LICENSE` file for full details.
+
+You are free to:
+- ✅ Use, copy, and modify this code
+- ✅ Use it commercially
+- ✅ Distribute it
+
+You must:
+- ✅ Include a copy of the license and copyright notice
 
 ---
 
