@@ -1,4 +1,4 @@
-# Rule-Based AI Chatbot v1.0
+# Rule-Based Chatbot v1.0
 
 **Industrial Training Kit | DecodeLabs | Batch 2026**
 
