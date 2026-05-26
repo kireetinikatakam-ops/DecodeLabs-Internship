@@ -24,7 +24,7 @@ A simple, lightweight, and deterministic chatbot implementation using explicit r
 
 ## Overview
 
-This chatbot demonstrates core concepts in conversational without external dependencies. It uses a rule-based approach with a knowledge base of predefined intents and responses, making it ideal for:
+This chatbot demonstrates core concepts in conversational AI without external dependencies. It uses a rule-based approach with a knowledge base of predefined intents and responses, making it ideal for:
 
 - Learning chatbot fundamentals
 - Understanding the IPO model in action
@@ -99,7 +99,7 @@ Or, if you made it executable on Linux/Mac:
 
 ```
 ======================================================================
-  RULE-BASED CHATBOT v1.0 | DecodeLabs Industrial Training Kit
+  RULE-BASED AI CHATBOT v1.0 | DecodeLabs Industrial Training Kit
 ======================================================================
   Type your message and press Enter. Type 'exit' or 'quit' to leave.
   Type 'help' to see available commands.
@@ -121,7 +121,7 @@ You: exit
 Bot: Exiting chatbot. Thanks for the conversation!
 
 ======================================================================
-  Thank you for using the Rule-Based Chatbot!
+  Thank you for using the Rule-Based AI Chatbot!
   Built with explicit logic, deterministic guardrails, and precision.
 ======================================================================
 ```
@@ -332,6 +332,7 @@ By studying this code, you'll understand:
 This project is part of the **DecodeLabs Industrial Training Kit (Batch 2026)** and serves as a foundational project for understanding:
 
 - Rule-based systems
+- Conversational AI basics
 - Python best practices
 - Clean code principles
 
@@ -339,7 +340,7 @@ This project is part of the **DecodeLabs Industrial Training Kit (Batch 2026)** 
 
 ## Author
 
-Kireetini Katakam| DecodeLabs Industrial Training Kit  
+**Kireetini Katakam**| DecodeLabs Industrial Training Kit  
 **Batch:** 2026
 
 *This project was completed as part of the DecodeLabs training program.*
@@ -350,13 +351,7 @@ Kireetini Katakam| DecodeLabs Industrial Training Kit
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for full details.
 
-You are free to:
-- ✅ Use, copy, and modify this code
-- ✅ Use it commercially
-- ✅ Distribute it
-
-You must:
-- ✅ Include a copy of the license and copyright notice
+MIT License allows anyone to use this code freely while giving you credit.
 
 ---
 
